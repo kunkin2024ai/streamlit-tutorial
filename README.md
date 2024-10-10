@@ -10,10 +10,16 @@ vscode 설치
 
 **설치**
 ```python
+## 가상환경 설치 및 라이브러리 설치 
 conda create -n streamlit-app python=3.8
 conda activate streamlit-app
 pip install streamlit pandas numpy matplotlib seaborn finance-datareader
 
+## git 설치
+winget install --id Git.Git -e --source winget
+
+## 샘플 소스 다운로드
+git clone https://github.com/kunkin2024ai/streamlit-tutorial.git
 ```
 
 - 실습파일: https://github.com/teddylee777/streamlit-tutorial
