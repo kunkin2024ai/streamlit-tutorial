@@ -22,6 +22,9 @@ winget install --id Git.Git -e --source winget
 
 ## 샘플 소스 다운로드
 git clone https://github.com/kunkin2024ai/streamlit-tutorial.git
+
+cd streamlit-tutorial
+streamlit run 00-text.py
 ```
 
 - 실습파일: https://github.com/teddylee777/streamlit-tutorial
