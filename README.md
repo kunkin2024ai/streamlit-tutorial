@@ -4,8 +4,10 @@
 사용법도 굉장히 쉽고, 무료 호스팅 기능도 지원해주기 때문에, 데모 앱을 만들어 볼 때 굉장히 유용합니다.
 
 anaconda 설치
+
 vscode 설치
-  ctrl + shift + p  > Python:Select Interpreter
+
+ctrl + shift + p  > Python:Select Interpreter
 
 
 **설치**
